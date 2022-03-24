@@ -1,0 +1,10 @@
+content:
+  - title: Introduction 
+    src: https://raw.githubusercontent.com/xprocket/example-lessons/main/docs/lessons/1-Introduction.md
+  - title: Specification 
+    src: https://raw.githubusercontent.com/xprocket/example-lessons/main/docs/lessons/2-Specification.md
+  - title: Modes
+    src: https://raw.githubusercontent.com/xprocket/example-lessons/main/docs/lessons/3-Modes.md
+meta: 
+  authorship: Harley Lang
+  title: Introduction to writing lessons with xprockets
